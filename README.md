@@ -5,6 +5,8 @@ Cette archive comprend le code source présenté dans le livre Microcontrôleurs
 
 ![image](https://user-images.githubusercontent.com/78604800/153439575-2d0b07d5-5a4a-453b-b9cc-104a31f464b3.png)
 
+<img src="https://user-images.githubusercontent.com/78604800/153439575-2d0b07d5-5a4a-453b-b9cc-104a31f464b3.png" width="100" height="100">
+
 https://www.epflpress.org/produit/1042/9782889154562/microcontroleurs
 
 
