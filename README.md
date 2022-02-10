@@ -9,7 +9,7 @@ Cette archive comprend le code source présenté dans le livre Microcontrôleurs
 
 ![image](https://user-images.githubusercontent.com/78604800/153439939-c8bcb1ed-862b-426f-826e-691711afbc99.png)
 
-Le code est publié sous la licence Creative Commons Attribution-ShareAlike 4.0 International Public License ![CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
+Le code est publié sous la licence Creative Commons Attribution-ShareAlike 4.0 International Public License [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 
 
 
